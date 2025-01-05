@@ -1,0 +1,117 @@
+{
+    "header":{
+        "title": "BLUE ELITE TECH",
+        "subtitle": "MORE THAN JUST SECURITY",
+        "navbar":{
+            "home": "Home",
+            "our_services": "Our Services",
+            "academy": "Academy"
+        }
+    },
+    "sidebar":{
+        "home": "Home",
+        "our_services": "Our Services",
+        "academy": "Academy",
+        "contact_us": "Contact us",
+        "blog": "Blog",
+        "light": "Light",
+        "dark": "dark",
+        "about_us": "About Us",
+        "language": "Language"
+        
+    },
+    "home": {
+        "post_1": {
+            "title_1": "A Beacon of Science",
+            "title_2": "And Technology."
+        },
+        "post_2": {
+            "title": "About The Company",
+            "subtitle": "Blue Elite boasts extensive experience in software development, backed by a team of specialized experts.",
+            "contact_button": "Contact Us"
+        },
+        "post_3": {
+            "title": "In the World of Technological Advancement Introducing Blue Elite Tech",
+            "subtitle": "In the modern age of technology, software development has become essential for business success and goal achievement. Stepping into the spotlight is Blue Elite, a trusted partner in the realm of software development, committed to delivering innovative solutions that efficiently meet our clients' needs with unparalleled quality."
+        }, 
+        "post_4": {
+            "title": "Why Blue Elite Tech?",
+            "subtitle": "At Blue Elite, we take pride in partnering with our clients to become an integral part of their journey towards success. Contact us today to explore how we can collaborate to drive your business forward through innovative software solutions."
+        }
+    },
+    "services": {
+        "title": "Services we provide",
+        "subtitle": "Blue Elite Tech is a leading software company known for its innovative solutions and advanced technology services. Founded on the principles of innovation and excellence, we have assembled a team of specialized developers and engineers dedicated to realizing our clients’ vision and meeting their technological needs.",
+        "desktop": {
+            "title": "Desktop Apps",
+            "subtitle": "We program all desktop applications according to the customer's needs"
+        },
+        "mobile": {
+            "title": "Mobile Apps",
+            "subtitle": "We program all android applications according to the customer’s needs"
+        },
+        "website": {
+            "title": "Websites",
+            "subtitle": "We design, manage and fully supervise websites"
+        },
+        "network": {
+            "title": "Local Networks",
+            "subtitle": "We install LAN networks according to the needs of companies and institutions"
+        },
+        "server": {
+            "title": "Server Management",
+            "subtitle": "We install local servers and manage them according to the needs of institutions and companies"
+        },
+        "camera": {
+            "title": "Camera System",
+            "subtitle": "Installing protection networks with surveillance cameras"
+        },
+        "warning": {
+            "title": "Warning System",
+            "subtitle": "Establishing early warning systems and sensors upon request"
+        },
+        "qualifying": {
+            "title": "Qualifying",
+            "subtitle": "Providing technical consultations and protection in the areas of developing"
+        },
+        "get_started": "Get Started"
+    },
+    "contact_us":{
+        "title": "Qualifying",
+        "subtitle": "Providing technical consultations and protection in the areas of developing",
+        "email_title": "Email Address",
+        "number_title": "Phone Number",
+        "office_title": "GP8X+8P2, Al Hasakah, Syria",
+        "user_form": {
+            "title": "Better yet, meet us in person!",
+            "subtitle": "We love our customers, so feel free to visit during normal business hours.",
+            "is_application": "Do you want to work with us? show us your CV!",
+            "is_application_button": "Browse...",
+            "full_name": "Full Name",
+            "email": "Email",
+            "message": "Message",
+            "submit_button": "Submit"
+        }
+    },
+    "about_us": {
+        "post_1": {
+            "title": " Who Are We?",
+            "subtitle": "Blue Elite Tech is a leading software company based in Al-Hasakah, Syria. With a passion for innovation and a dedication to excellence, we strive to deliver cutting-edge solutions to our clients. Our team of highly skilled professionals is committed to providing top-notch software development services tailored to meet the unique needs of businesses across various industries."
+        },
+        "post_2": {
+            "title": " Who Are We?",
+            "subtitle": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium doloribus dignissimos blanditiis sit quo placeat saepe magni error illum facilis laborum, velit amet doloremque tempora dolore itaque adipisci optio eos repudiandae. Possimus, nostrum, suscipit fuga sequi quam earum consequatur officiis repudiandae libero minus enim dolor et repellendus sapiente molestiae cupiditate rem error. Doloribus aperiam pariatur esse impedit hic autem sunt obcaecati rem unde aspernatur, harum nam non quibusdam mollitia vero dolores amet recusandae suscipit commodi! Illo, placeat nulla, natus aliquid illum cum numquam itaque blanditiis excepturi ab quae, eveniet quis error nemo dolorem tenetur hic aspernatur nesciunt perspiciatis unde doloribus."
+        },
+        "post_3": {
+            "title": " Who Are We?",
+            "subtitle": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores pariatur sit ea beatae ducimus nisi culpa. Quod impedit tempore facilis placeat nulla quis assumenda consectetur error, quia doloremque sed recusandae."
+        }, 
+        "post_4": {
+            "title": "Why Blue Elite Tech?",
+            "subtitle": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quam voluptatibus doloremque vero laboriosam aliquam atque eius, accusamus rem qui, maiores adipisci est assumenda! Illo voluptatem exercitationem ab ea, dignissimos similique optio eum possimus accusantium id ipsum officiis est, repellat magnam praesentium quidem inventore iusto tenetur. Commodi in illo ipsum adipisci ratione, eveniet sequi eligendi amet aspernatur dolore fuga illum qui ut sunt reprehenderit quos ea fugiat expedita veniam! Aut veniam ipsam ducimus, corrupti dolorem quos voluptatem sunt cupiditate ullam vero ea nulla officia aliquid aspernatur voluptatum sed expedita doloremque, est in non dolorum odit quisquam soluta! Ad mollitia, eaque pariatur qui culpa minus tenetur incidunt, perferendis adipisci illum numquam nulla, fugit molestiae. Labore ipsum repellat, distinctio eveniet recusandae dolor? Quam nobis neque modi accusantium dolorem a tempora nisi ipsam accusamus!"
+        }
+    },
+    "footer": {
+        "title": "© 2024 All rights reserved for Blue Elite Tech."
+    }
+}

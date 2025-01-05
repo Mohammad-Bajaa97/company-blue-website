@@ -1,0 +1,253 @@
+{
+    "header":{
+        "title": "BLUE ELITE TECH",
+        "subtitle": "MORE THAN JUST SECURITY",
+        "navbar":{
+            "home": "Home",
+            "our_services": "Our Services",
+            "academy": "Academy"
+        }
+    },
+    "sidebar":{
+        "home": "Home",
+        "our_services": "Our Services",
+        "academy": "Academy",
+        "contact_us": "Contact Us",
+        "join_us": "Join Us",
+        "blog": "Blog",
+        "light": "Light",
+        "dark": "Dark",
+        "about_us": "About Us",
+        "language": "Language"
+        
+    },
+    "home": {
+        "titles1": [
+            "Your Ideas...",
+             "Your Success is",
+             "Innovation",
+             "Secure, Engaging",
+             "Agile Development..",
+             "Secure Today.."
+            ],
+        "titles2": [
+            "Our Code!", 
+            "Our Priority",
+            "at Your Fingertips",
+            "& Reliable",
+            "Timely Delivery",
+            "Safe Tomorrow!"
+        ],
+        "post_0": {
+            "title_1": "Your Success is",
+            "title_2": "Our Priority"
+        },
+        "post_1": {
+            "title_1": "A Beacon of Science",
+            "title_2": "And Technology."
+        },
+        "post_2": {
+            "title": "About The Company",
+            "subtitle": "Blue Elite boasts extensive experience in software development, backed by a team of specialized experts.",
+            "contact_button": "Contact Us"
+        },
+        "post_3": {
+            "title": "In the World of Technological Advancement Introducing Blue Elite Tech",
+            "subtitle": "In the modern age of technology, software development has become essential for business success and goal achievement. Stepping into the spotlight is Blue Elite, a trusted partner in the realm of software development, committed to delivering innovative solutions that efficiently meet our clients' needs with unparalleled quality."
+        }, 
+        "post_4": {
+            "title": "Why Blue Elite Tech?",
+            "subtitle": "At Blue Elite, we take pride in partnering with our clients to become an integral part of their journey towards success. Contact us today to explore how we can collaborate to drive your business forward through innovative software solutions."
+        }
+    },
+    "services": {
+        "title": "Services we provide",
+        "subtitle": "Blue Elite Tech is a leading software company known for its innovative solutions and advanced technology services. Founded on the principles of innovation and excellence, we have assembled a team of specialized developers and engineers dedicated to realizing our clients’ vision and meeting their technological needs.",
+        "desktop": {
+            "title": "Desktop Apps",
+            "subtitle": "We program all desktop applications according to the customer's needs"
+        },
+        "mobile": {
+            "title": "Mobile Apps",
+            "subtitle": "We program all android applications according to the customer’s needs"
+        },
+        "website": {
+            "title": "Websites",
+            "subtitle": "We design, manage and fully supervise websites"
+        },
+        "network": {
+            "title": "Local Networks",
+            "subtitle": "We install LAN networks according to the needs of companies and institutions"
+        },
+        "server": {
+            "title": "Server Management",
+            "subtitle": "We install local servers and manage them according to the needs of institutions and companies"
+        },
+        "camera": {
+            "title": "Camera System",
+            "subtitle": "Installing protection networks with surveillance cameras"
+        },
+        "warning": {
+            "title": "Warning System",
+            "subtitle": "Establishing early warning systems and sensors upon request"
+        },
+        "qualifying": {
+            "title": "Qualifying",
+            "subtitle": "Providing technical consultations and protection in the areas of developing"
+        },
+        "get_started": "Get Started"
+    },
+    "contact_us":{
+        "title": "CONTACT US",
+        "subtitle": "Let's get in touch..",
+        "email_title": "Email Address",
+        "number_title": "Phone Number",
+        "office_title": "Office Address",
+        "user_form": {
+            "title": "Better yet, meet us in person!",
+            "subtitle": "We love our customers, so feel free to visit during normal business hours.",
+            "is_application": "Do you want to work with us? show us your CV!",
+            "is_application_button": "Browse...",
+            "full_name": "Full Name",
+            "phone_number": "Phone Number",
+            "email": "Email",
+            "message": "Service Description",
+            "submit_button": "Submit",
+            "service_choices": {
+                "choose_option": "Choose a Service:",
+                "desktop": "Desktop Application",
+                "mobile": "Mobile Application",
+                "website": "Website",
+                "local_network": "Local Network Service",
+                "server_management": "Server Management Service",
+                "camera_system": "Camera System Service",
+                "warning_system": "Warning System Service",
+                "qualifying": "Qulaifying Service",
+                "simurx": "SÎMURX Academy"
+            }
+        },
+        "popup": {
+            "success": {
+                "title": "Success!",
+                "description": "We've recieved your request, we'll contact you soon. Thank You!"
+            },
+            "fail": {
+                "title": "Error sending request!",
+                "description": "Your request failed to be sent, please try again later!"
+            }
+            
+        }
+    },
+    "join_us":{
+        "user_form": {
+            "title": "Join us right now!",
+            "is_application": "Show us your skills!, upload your CV!",
+            "is_application_button": "Browse...",
+            "full_name": "Full Name",
+            "phone_number": "Phone Number",
+            "email": "Email",
+            "message": "Message",
+            "submit_button": "Submit"
+        },
+        "popup": {
+            "success": {
+                "title": "Success!",
+                "description": "We've recieved your request, we'll contact you soon. Thank You!"
+            },
+            "fail": {
+                "title": "Error sending request!",
+                "description": "Your request failed to be sent, please try again later!"
+            }
+            
+        }
+    },
+    "about_us": {
+        "post_1": {
+            "title": "Who Are We?",
+            "subtitle": "Blue Elite Tech is a leading company in software development, we are passionate about driving innovation and excellence in the world of software development. Founded with the vision to revolutionize the tech industry, we specialize in creating cutting-edge solutions for businesses and individuals alike."
+        },
+        "post_2": {
+            "title": "Our Mission",
+            "subtitle": "Our mission is to deliver high-quality, tailored software solutions that meet the unique needs of our clients. We aim to empower businesses with technology that enhances efficiency, productivity, and growth."
+        },
+        "post_3": {
+            "title": "Our Team",
+            "subtitle": "Our team comprises skilled professionals with diverse expertise in software development, design, and cybersecurity. With a commitment to continuous learning and innovation, we ensure that our solutions are always at the forefront of technology."
+        },
+        "post_4": {
+            "title": "What We Do",
+            "subtitle_1": "Application Development: ",
+            "description_1": "From desktop to mobile applications, we design and develop custom software that aligns with your business objectives.",
+            "subtitle_2": "Web Design: ",
+            "description_2": "Our team crafts visually stunning and highly functional websites that offer an exceptional user experience.",
+            "subtitle_3": "Cybersecurity: ",
+            "description_3": "We provide comprehensive cybersecurity services to protect your digital assets from potential threats.",
+            "subtitle_4": "Coding Courses: ",
+            "description_4": "Through our partner academy, Symorx, we offer a range of coding courses designed to equip aspiring developers with the skills they need to succeed in the tech industry."
+        }, 
+        "post_5": {
+            "title": "Why Choosing Us",
+            "subtitle_1": "Expertise: ",
+            "description_1": "Our experienced team brings a wealth of knowledge and skill to every project.",
+            "subtitle_2": "Innovation: ",
+            "description_2": "We leverage the latest technologies to deliver innovative solutions.",
+            "subtitle_3": "Client-Centric: ",
+            "description_3": "We prioritize our clients' needs and work closely with them to achieve their goals.",
+            "subtitle_4": "Quality: ",
+            "description_4": "TWe are dedicated to delivering high-quality products and services that exceed expectations."
+        }, 
+        "post_6": {
+            "title": "Get in Touch",
+            "description_1": "We would love to hear from you! Whether you’re looking for a custom software solution, a stunning new website, or top-notch cybersecurity services, Blue Elite Tech is here to help. Contact us today to discuss your project needs.",
+            "description_2": "Are you interested in working with us?",
+            "description_3": "You can join us on our journey to innovate and transform the digital landscape. Together, we can achieve remarkable things."
+        }        
+    },
+    "footer": {
+        "title": "© 2024 All rights reserved for Blue Elite Tech."
+    },
+    "academy":{
+        "title": "Join us right now!",
+        "subtitle": "Simorx Academy is a leading programming academy dedicated to developing the next generation of developers. In collaboration with Blue Elite Tech, we offer a range of courses designed to help beginners and recent graduates kick-start their careers in technology",
+        "cards": {
+            "card1": {
+                "title": "Our Mission",
+                "description": "Our mission is to make coding education accessible and engaging, providing students with the knowledge and skills they need to thrive in the tech industry."
+            },
+            "card2": {
+                "title": "What We Offer",
+                "subtitle1": "Beginner Courses: ",
+                "description1": "Covering the basics of various programming languages and tools.",
+                "subtitle2": "Hands-On Learning: ",
+                "description2": "Real-world projects & practical exercises."
+            },
+            "card3": {
+                "title": "Our Team",
+                "description": "Our instructors are industry professionals, including developers from Blue Elite Tech, who bring their real-world experience and expertise into the classroom. This ensures that our students receive top-quality education."
+            },
+            "card4": {
+                "title": "Why SÎMURX",
+                "subtitle1": "Expert Instructors",
+                "description1": "",
+                "subtitle2": "modern software: ",
+                "description2": "Always master the latest tools and environments.",
+                "subtitle3": "Supportive Environment: ",
+                "description3": "We foster a supportive and collaborative learning environment where students can thrive."
+            },
+            "card5": {
+                "title": "Our Partnership",
+                "description": "Through our partnership with Blue Elite Tech, we stay connected with the latest developments in the tech industry, ensuring that our curriculum is always relevant and cutting-edge."
+            },
+            "card6": {
+                "title": "Contact Us",
+                "description": "Ready to start your coding journey? Contact Symorx Academy today to learn more about our courses and how we can help you achieve your career goals."
+            }
+            
+
+        },
+        "contact": {
+            "title": "Contact SÎMURX Academy"
+        }
+        
+    }
+}

@@ -1,0 +1,102 @@
+.background-aboutus1{
+    background: linear-gradient(90deg,#e2caca 10%, #d5dfe6 50%, #ee9090);
+    background-size: 200% 200%;
+    background-position: 0% 100%;
+    animation-name: test_hover;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    animation-direction: alternate;
+    transition: .5s;
+    animation-duration: 8s;
+    animation-delay: 1s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    animation-direction: alternate;}
+.background-aboutus{
+    background: linear-gradient(90deg,#c8f0dd 10%, #6a89ac 50%, #ecb7b7);
+    }
+.dark-background-aboutus{
+    background-color: #06070794;
+    ;
+}
+.light-background-aboutus{
+    background-color: #fcffff4d;
+    ;
+}
+.aboutus-graydark-background{
+    background: linear-gradient(180deg,#111111 0%,#2e2d2d 25%, #2c2626 50% , #2e2d2d 75%, #111111);
+}
+
+
+.aboutus-container{
+    /* background-color: rgb(196, 190, 190); */
+    min-height: calc(100vh - 180px);
+    margin-top: 133px;
+    padding: 2em;
+}
+.aboutus-posts{
+    margin: auto;
+    max-width: 850px;
+    display: grid;
+    row-gap: 1em;
+    grid-template-columns: 1fr;
+}
+.aboutus-post h2{
+    margin-bottom: 2rem;
+}
+.aboutus-post{
+    line-height: 1.6rem;
+    padding: 1em;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    /* border: 1px solid black; */
+    background-color: #ffffffb0;
+    border-radius: 28px;
+}
+.aboutus-dark-post{
+    background-color: rgba(240, 248, 255, 0.24);
+}
+.aboutus-light-post{
+    background-color: #ffffffb2;
+}
+/* .aboutus-dark-post #aboutus-company-logo{
+    background-color: aliceblue;
+} */
+.aboutus-button{
+    margin-left: 1rem;
+    display: inline;
+    color: black;
+    text-decoration: none;
+    padding: 4px;
+    border-radius: 12px;
+    width: 7em;
+    text-align: center;
+    transition: .75s;
+    background: transparent;
+}
+.aboutus-button:hover{
+    background-color: #48c3e9;
+    color: black;
+    transition: .75s;
+}
+.aboutus-img{
+    width: 300px;
+    height: 300px;
+    border-radius: 15px;
+}
+.aboutus-post-section{
+    padding: 12px;
+}
+.aboutus-image-container{
+    display: flex;
+    justify-content: center;
+}
+.link-icon{
+    width: 12px;
+    height: 12px;
+}
+@media(max-width: 950px) {
+    .aboutus-post{
+        grid-template-columns: 1fr;
+    }
+}

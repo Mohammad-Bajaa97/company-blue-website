@@ -1,0 +1,191 @@
+/* Backgrounds */
+
+.contactus-graydark-background{
+    background: linear-gradient(180deg,#111111 0%,#2e2d2d 25%, #2c2626 50% , #2e2d2d 75%, #111111);
+}
+
+/* MAP PREFERENCE */
+.leaflet-touch .leaflet-control-attribution {
+    box-shadow: none;
+    display: none;
+} 
+
+/* END OF MAP PREFERENCE */
+.contactus-container{
+    min-height: max(100vh,90px);
+    margin-top: 133px;
+}
+.contactus-container-cell{
+    max-width: 800px;
+    min-width: 600px;
+}
+.white-contactus{
+    color: rgba(240, 248, 255, 0.849);
+}
+.black-contactus{
+    color: rgb(36, 36, 35);
+}
+.contactus-container-cells{
+    padding: 1.5rem;
+    margin: auto;
+    margin-top: .5em;
+    display: grid;
+    max-width: 800px;
+    grid-template-columns: 1fr;
+    margin-bottom: 2em;
+
+}
+.company-information{
+    margin-top: 3em;
+}
+.company-information h3{
+    margin-bottom: 1.2rem;
+    margin-top: 1.2rem;
+}
+.company-information h1{
+    margin-bottom: 1.4rem;
+}
+.company-location{
+    opacity: .8;
+    transition: .8s;
+}
+.company-location:hover{
+    opacity: 1;
+    transition: .8s;
+}
+.company-details-cells{
+    margin-top: 1.5rem;
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    column-gap: 1em;
+}
+.company-detail{
+    margin-top: 1.5rem;
+    text-wrap: nowrap;
+    text-align: center;
+    line-height: 2.3rem;
+}
+.company-details-cell-dark:hover{
+    background-color: #292c2c94;
+    box-shadow: rgba(233, 227, 227, 0.25) 0px 54px 55px, rgba(250, 247, 247, 0.12) 0px -12px 30px, rgba(240, 235, 235, 0.12) 0px 4px 6px, rgba(226, 221, 221, 0.17) 0px 12px 13px, rgba(168, 158, 158, 0.09) 0px -3px 5px;
+    transition: .3s;
+}
+.company-details-cell-light:hover{
+    background-color: #fcffff4d;;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    transition: .3s;
+}
+.company-details-cell{
+    display: flex;
+    flex-direction: column;
+    background-color: rgba(240, 248, 255, 0.24);
+    border-radius: 12px;
+}
+.company-details-cell a{
+    text-decoration: none;
+}
+.contactus-card-icon{
+    width: 32px;
+    height: 32px;
+}
+
+.text-input input{
+    height: 2.5rem;
+    width: 35rem;
+    border-radius: 12px;
+    font-size: large;
+    text-indent: .5rem;
+}
+.text-input textarea{
+    border-radius: 12px;
+    font-size: large;
+
+    min-width: 35rem
+    ;
+    min-height: 5rem;
+    max-width: 35rem;
+    max-height: 18rem;
+
+    margin-bottom: 2rem
+}
+
+/*  contact-company  */ 
+.contact-company{
+    padding: 1rem;
+    margin-top: 4.5rem;
+    border-radius: 12px;
+    border: 1px solid rgba(250, 250, 250, 0.795);
+}
+.contact-company .greeting h2{
+    text-align: center;
+}
+.contact-company .greeting p{
+    margin-top: 1rem;
+    text-align: center;
+}
+#user-form{
+    width: 37rem;
+    margin: auto;
+}
+#service-list{
+    height: 2.5rem;
+    width: 35rem;
+    border-radius: 12px;
+    font-size: large;
+    text-indent: .5rem;
+    background-color: #E8F0FE;
+
+}
+/* #contact-company:has(form:focus-within){
+    border: 1px solid white;
+} */
+.user-form-section{
+    margin-top: 1.5rem;
+}
+.checkbox-input{
+    margin-top: 2.5rem;
+    width: 35rem;
+}
+.text-input label{
+    display: block;
+    margin-bottom: 1rem;
+}
+.text-input input, .text-input textarea{
+    background-color: #E8F0FE;
+}
+.text-input textarea{
+    text-indent: .5rem;
+    font-size: large;
+
+}
+#contactus-form-submit-button{
+    width: 6rem;
+    height: 3.5rem;
+}
+#upload-cv-button{
+    width: 5rem;
+}
+.contactus-button{
+    border-radius: 12px;
+    background-color: #ffffff27;
+}
+.contactus-button-light{
+    background-color: #ffffff5d;
+}
+.contactus-button-dark{
+    color: white;
+    font-weight: 400;
+}
+.label-light{
+    color: rgba(240, 248, 255, 0.849);
+}
+@media(max-width: 700px) {
+    .company-details-cells{
+        grid-template-columns: 1fr 1fr;
+        column-gap: 1.5em;
+        row-gap: 1.5em;
+    }
+    
+}

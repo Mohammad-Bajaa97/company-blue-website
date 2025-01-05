@@ -1,0 +1,8 @@
+body{
+    height: 100%;
+}
+.notfound-message{
+    background-color: rgb(196, 190, 190);
+    min-height: max(100vh,90px);
+    margin-top: 133px;
+}
